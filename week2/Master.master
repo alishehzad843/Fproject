@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Master.master.cs" Inherits="Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+     <style type="text/css">
+
+
+ul{
+	display:flex;
+	background-color:black; 
+	font-family:helvetica;
+	font-weight:300; 
+	  
+
+
+}
+
+ul li{
+
+	padding:15px; 
+	list-style:none; 
+
+}
+
+a{
+	text-decoration:none; 
+	color:white;
+
+}
+
+ul a:hover{
+
+	
+    background-color:lightblue;
+    text-decoration-color:black;
+    
+      
+}
+
+
+}
+
+
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div>
+			  <div>
+			     <ul>
+   
+				<a href="home.aspx"><li>Home</li></a>
+				
+                <a href="uploaddocument.aspx"><li>Upload Documents</li></a>
+                     <a href="Adminhome.aspx"><li>Admin</li></a>
+                     <a href="#"><li>Logout</li></a>
+
+				
+			</ul>
+		</div>
+            </div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
