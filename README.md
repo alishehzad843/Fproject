@@ -31,6 +31,10 @@ To download xampp server(https://www.apachefriends.org/download.html)
 
 7-Open browser and run your project.
 
+**Video tutorial to run the project**
+
+(https://youtu.be/2CHKNknyW-A)
+
 **Contact**
 
 Please feel free to contact me at <alishehzad843@gmail.com> for any enquiries or suggestions.
