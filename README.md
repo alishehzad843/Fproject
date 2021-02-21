@@ -11,18 +11,25 @@ If you are to use any part of this code, please fulfill the following requiremen
 **Requirements**
 
 1-Visual Studio code editor/Atom code editor/notepad++.
+
 2-Xampp server.
 To download xampp server(https://www.apachefriends.org/download.html)
 
 **To run the project**
 
-Download the code in ZIP format (https://github.com/alishehzad843/Fproject).
-Extract the ZIP file in htdocs folder of xampp server.
-Start the Mysql and apche services in xampp server.
-Open xampp database.
-Create the database.
-Import the tables of database.
-Open browser and run your project.
+1-Download the code in ZIP format (https://github.com/alishehzad843/Fproject).
+
+2-Extract the ZIP file in htdocs folder of xampp server.
+
+3-Start the Mysql and apche services in xampp server.
+
+4-Open xampp database.
+
+5-Create the database.
+
+6-Import the tables of database.
+
+7-Open browser and run your project.
 
 **Contact**
 
