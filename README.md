@@ -21,7 +21,7 @@ To download xampp server(https://www.apachefriends.org/download.html)
 
 2-Extract the ZIP file in htdocs folder of xampp server.
 
-3-Start the Mysql and apche services in xampp server.
+3-Start the MySQL and apache services in xampp server.
 
 4-Open xampp database.
 
